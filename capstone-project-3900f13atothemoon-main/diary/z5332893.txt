@@ -1,0 +1,10 @@
+Week1: In the first week I formed a team called toTheMoon with four other teammates. We chose the 23rd project as our final project.
+Week2：During the week, we started the draft of the proposal. Detailed project divisions were made for each area.
+Week3：We wrapped up the proposal this week and started preparing the code section.
+Week4: I started working on the front end and my part was to build the login and user registration pages. And communicating with my teammates in back-end development.
+Week5: I've completed the basic build of the login and register, but there have been some disagreements and miscommunications within the team. So much so that we need to rework the code to optimise our code by using an external library MUI
+Week6: We got useful feedback from the tutor that we didn't finish our section as originally planned. So much so that it left some tasks to sprint2.After the class we started a big meeting to optimise our team communication and avoid the same problem again!
+Week7: My task at sprint2 is to complete the company's creation of projects, user browsing and requesting projects. As well as helping to link the front end and back end of completing presentations.
+Week8: We did a project merge this week and found some code conflicts.
+Week9: During the week we made final assignments for sprint3. We hope to finish applying the core functionality here. And assign a group member to spend more time on my report.
+Week10：My main goal this week was to fix bugs in the code and decide to drop some extra added features. Mainly spent time on code maintenance and final demo presentation.

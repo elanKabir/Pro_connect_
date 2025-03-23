@@ -1,0 +1,74 @@
+Week 1
+For week 1 we formed a group. I was assigned to be the scrum master. 
+Together as a team, we picked project 23 which is a web platform to connect Professionals to projects. For the project proposal, I created a Google document for us to work together.
+Our other forms of communication are via Discord and Messenger Fb.
+I was tasked to do user stories, project objectives, requirement mapping, novel functionality and update Jira sprints, user stories as a scrum master.
+Together during week 1 we discussed on planning our proposal.
+
+Week 2 
+For this week, we just continue working on the tasks that we are given for the proposal. 
+Together we tried brainstorming the functionalities that our platform is going to offer besides the core functionalities. However, we ran into some issues with deciding how our platform is going to work and how to differentiate ours with current existing platforms. 
+We arranged our regular meetings on Monday night together. 
+For Jira, I started putting in some user stories that are finalized. 
+
+Week 3 
+For week 3, we came together as a group almost every night before the submission to talk about new functionalities that we are going to have. 
+This week was busy because we decided to make new changes which as a result affect great changes in user stories, storyboards, etc. 
+Then as a scrum master I had to finish putting user stories in the backlog, sprints. Other than that I brainstormed the idea of gamification
+for our extra functionality for this project during the group meeting.
+During the final day, we put in acceptance criteria together as a group. 
+
+Week 4
+For week 4, we decided the points that we had to finish for the first sprint and started working on it. I was tasked to do the backend development along with Wing. 
+Then I went to Jira to assign a person working on specific tasks. For this week I got the server and database connected and worked successfully with login, change password and view users functions. 
+At the end of the week, I revised the code and continued to work on the remaining points left for the sprint. 
+
+Week 5
+For week 5 we continue finishing off our first sprint with our allocated tasks on Jira. I did upload professional photos, list skills and add company bio functions.
+We had continuous discussions via messenger platform and held 2 meetings before the project demo to make sure we successfully can get the backend and frontend working and if there are any issues. 
+Other than that we briefly prepared for the coming up demo. As a scrum master, I worked additionally on writing Retrospective A mainly, then I had some contribution from the remaining group members to complete the report.
+At the end of the week I fixed the Register and Login page to get used to frontend for the next sprint.  
+
+Week 6
+For this week we gathered feedback that was given during the demo and tried to fix up as much as we could.
+Mainly the issues were us not completing off the sprint 1 tasks as well as styling components on frontend.
+We then had a large meeting about sprint 2 and decided to redistribute power and have me on frontend because we needed more manpower on the frontend side.
+My tasks for this week were completing the contact me and reviewing components.
+After finishing that, I started working on creating a project form component.
+
+Week 7
+For this week, my tasks were to work on frontend components and pages for creating a project page, viewing applications list (declining or approving) from the company side. 
+Then as a scrum master I continued to finish allocating and splitting tasks into smaller tasks (frontend wise) on Jira as per the tutor’s previous feedback. 
+So frontend tasks are now frontend component, frontend page, frontend linking with backend. 
+If there are even smaller components handled by different people we will add in another child issue and split that task, else we will just call it a frontend component. 
+
+Week 8
+For this week, as a scrum master, my task was to write retrospective B and submit it on time for the due date. 
+In terms of coding tasks, my task was to do frontend components and pages for delete projects and modify project details (on the company's side), as well as removing approved professional users from a project (company’s side). 
+Then during our group's meeting before the demo, I checked off tasks on Jira to make sure the status (in progress/ done) is accurate and up to date with everyone.
+We then merge it together to see if all the functions are working for the demo. We finished more tasks, compared to our sprint 1, however there are still some tasks that are not fully integrated with the backend yet. 
+
+Week 9
+After the demo, I just assigned new tasks on jira according to what everyone is already familiar with or knows how to execute so that we will better understand what we should be doing. 
+The tasks I was supposed to do for this sprint is:
+Application list
+Viewing Reviews
+Leaving Reviews
+In terms of components and pages. 
+Then I created a google doc and started on the project report first, creating the layout, sections of the report and did the Overview section and all the User Design section.
+
+Week 10
+For this week, after our weekly meeting on Sunday, I reassigned tasks on Jira to make sure we can finish the core 
+functionalities and to see if we needed to make any adjustments on our added extra functionalities to meet deadlines.
+I then worked on the Certificates listing page and components.
+Then I continued writing the project's report, finishing the “Third Party Functionalities” section 
+and the “Functionalities and Project Mapping” section, and wrote the guide for users to use the system - “Using the System” section. 
+Then I cleaned up code removing unused imports, and wrote notifications unit test.
+Then we have a group meeting to discuss the presentation demo. 
+So I splitted up the presentation’s sections and assigned parts equally to the members.  
+
+
+
+
+
+ 
