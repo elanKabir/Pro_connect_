@@ -1,0 +1,68 @@
+Work Diary   
+Yingyi Wei z5364753 
+
+
+Week1
+
+We formed a group consisting of five people and decided on the group project during the lab session. Jennie is the designated scrum master, and she allocated tasks to each of us. 
+In the proposal, Jennie and I will be focusing on the user story and storyboard components, while Elan will handle the background part. Jeff and Alan have taken responsibility for 
+the software architectural aspects.Everyone is content with their respective roles and ready to proceed. I began my part by conducting research on the web to find projects similar 
+to ours. I then started working on the interface, making references to resources on Fiverr and Freelancer.
+
+
+Week2
+
+I was chosen as the team lead. Our first step was to have a meeting with the client, during which we discussed our project. 
+Following this meeting, I collaborated with the other group leads. After our meeting with the client, we gained clarity on 
+the website's purpose and resolved many challenges. I dedicated my efforts to the storyboard, using Figma to design the interface. 
+The interface was divided into three parts: the admin web, the professional web, and the company web.
+During our group meeting, we reviewed everyone's tasks and collectively decided on the website's name, which we chose as 'PROconnect'
+
+Week3
+
+I completed the basic structure of the interface early in the week, and I'm now shifting my focus to implementing novel functionalities.
+We're grappling with the challenge of differentiating our website from existing platforms and brainstorming unique features to incorporate. 
+After several meetings and discussions, we decided to introduce gamification and collaboration features to make our platform more engaging and enjoyable.
+In addition to these new features, I've also created additional pages within the interface to enhance the overall user experience and functionality.
+Also, me and other team leads had another meeting with the client. During that meeting, we were discussing about the verifying system of the platform. Basiclly 
+it is important to do a cross check with the company ABN number. I also discussed with my team with this issue, and we decided to request for a api to achieve this functionality. 
+
+
+Week4
+We began working on Sprint 1 this week, which focuses on authentication (sign up and sign in processes). Our first step was to create the MongoDB database and establish a connection 
+with the routes. However, we encountered an error indicating a certificate verification failure. Initially, we suspected the issue was related to the database link. However, after 
+conducting some research, I discovered that we needed to add a certificate to activate the database. Once we successfully connected to the database, all the functionalities were fully operational.
+However, we still need to address the coding style since all the code is currently located in the same file. We are considering using more object-oriented programming principles and plan to refactor and tidy up the code.
+it is important to do a cross check with the company ABN number. I also discussed with my team with this issue, and we decided to request for a api to achieve this functionality. 
+
+Week5
+This week, we worked diligently to complete Sprint 1. I handled the registration and password change functionalities. After discussing with my team members, we decided it would be more effective to use the OTP API to generate one-time passwords
+when a user clicks on the 'Forgot Password' option. Therefore, I began working on implementing this change. During the demo, we couldn't finish all of the tasks for Sprint 1 in time because the frontend part was still in progress. 
+Unfortunately, we didn't have sufficient time to complete the frontend tasks while ensuring they met the aesthetic requirements. We noticed issues with aspects like font sizes and button dimensions, which were either too small or too large, 
+making the overall appearance unsuitable. After the demo meeting, we realized the need for more thorough review before pushing and merging changes to avoid any potential impacts on the entire project. We also recognized the necessity to redistribute 
+the workload and allocate more resources to the frontend development. For Sprint 2, I will continue to work on the backend by myself, with my focus on improving database management and providing necessary information for the frontend team.
+
+
+Week6
+After Demo 1, we collected feedback from our tutor and made adjustments as we moved on to Sprint 2. The main tasks for Sprint 2 revolve around project creation and application processes. I began by working on all the routes related to creating projects.
+In our MongoDB collection, I organized the data into two different documents for information storage. One document, 'user_id,' contains all the user login details and their profiles. The other document, 'project_id,' stores project-specific details and 
+user application information. Additionally, I updated the error handling approach by using Google JSON responses. This allows for more structured error and data return, making it easier for the frontend to receive and handle messages effectively.
+
+
+Week7
+In this week, my primary focus was on project editing and the user application process. I created three arrays within the project collection: 'applied users,' 'approved users,' and 'rejected users.' User_id along with application details, are added and removed from these arrays to ensure that each user can apply for a project only once.
+During our weekly meeting, we discussed a feature to motivate users. We decided to incorporate a bid amount when applying for a project, allowing the company to select a worthy working partner. I also introduced a 'manpower requirement' field in the project details to help companies better understand the project's status.
+Overall, it was a successful week, and everything worked well. It was indeed a good week.
+
+
+Week8
+In week 8, we underwent a significant backend transformation. We realized that all data documents were stored in the same collection, making it challenging for the filter function to operate effectively. Consequently, I had to make substantial changes to the database structure, creating separate collections for projects, CVs, and image files. With this restructuring, all data is now organized and easy to filter.
+Although we have completed all the individual functions, there is still some work to be done when merging with the frontend. However, everyone is collaborating effectively as a strong team. I genuinely enjoy working with this team, and now we are gearing up for Demo 2, ensuring that everything in Sprint 2 is completed as a cohesive unit. Good luck
+
+Week9
+In week 9, I began working on tasks related to notifications and reviews. Both parts were relatively straightforward and similar to the routes for creating projects and users. Subsequently, I shifted my focus to the external component, specifically the Boost Project feature.
+Given its external nature, we haven't developed an interface for this page yet. However, we brainstormed the idea of adding a golden frame around the project box. With this, all core functionalities for the project are now completed. I am now moving on to addressing minor bugs while connecting to the frontend.
+
+Week10
+In the last week, we refrained from adding more features and merged everything into the main branch to ensure smooth functionality without conflicts. My primary focus was on cleaning up the code to enhance the quality of the backend. Simultaneously, we initiated the report and conducted several meetings to strategize the demo preparation. We ran through all aspects to guarantee that everything aligns with the specified requirements. And I am looking forward to the final demo now!
+

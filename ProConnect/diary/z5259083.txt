@@ -1,0 +1,32 @@
+Week 1
+
+During this week I formed a group with the other memeber in my lab. We decided on working on project 23 as this project gave us the opportunity to not only display our technical skills but also our creative abilities. We also, decided on what technologies we were profficient in and concluded that our database would be mongoDB, backend would use python flask and frontend would use react and typescript.
+
+Week 2
+
+We had our first meeting on Monday of week 2 and decided that this would be our reacurring meeting day. We discussed the proposal and split the sections up. I was responsible for backgorund and part of the software architecture. Throughout the meeting we had alot of questions about the spec specificaly in regards to how our platfrom was going to differentiate from current systems such as Upwork. On Thursday we took the questions collected and asked the client on Thursday. From this meeting the general advice was it's up to us how we want to make our system unique the spec is only a general guideline.During the weekend I started writing the background section of the report.
+
+Week 3
+During our meeting on Monday we needed to decide how we wanted our platform to be unique. Over the next day we deicided on the unique elements of our platform. Over the next few days I worked on background, presentation layer and user stories.
+
+Week 4 
+
+So this was the first week of our first sprint and we split up the different user stories to work on. I was working on the registration page. To get this working we also need to incorporate the ABN lookup API so i spent some time getting that working correctly so that we could verify accounts.  
+
+Week 5
+In this week we had to change the way we went about developing the frontend since all the components and forms we all made individually in the previous week didnt really look they belonged together so we came up with style guidelines so that we all the components would have the same style. Also connected the components I made to the backend so they could be shown for the demo. 
+
+Week 6
+During this my main goal was to finish the backlog we had left from sprint 1. This includes the edit and profile page. The edit page wasn’t that time consuming but making the profile pages took some time because this page has a lot of components and making it look the way i wanted to up time. After this week the edit page was done and connected to the backend and general outline for the profile page was done. 
+
+Week 7
+I spent this week finalising the profile page and finishing off all the user stories for the profile page. 
+
+Week 8 
+This week i worked on connecting the project edit page to the backend so handling the api calls to the backend for edit project and delete project. Also updated the profiel page and edit page so that it worked with the new return types. Also, majority of my components had placeholders since they relied on other components being developed by other members. Had to spend time incorporating these components to replace the placeholders. 
+
+week 9
+This week my main goal was to incorporate all the changes that were presented to us by our tuter in our week 8 demo. I also refracted all of the componetents i had already made to ensure our code was cleaner. I also extracted our made object type and put them in a types.tsx file so we could easily access these common object types. 
+
+Week 10 
+During week 10 alot of things had to be compelted. I reworked the project detail page because it didn't have the functionality we required it terms of changing the proejct states, removing approved users and leaving reviews. I also updates all the review components to view reviews and view all reviews. We also had a lot of bug fixes that arised during our testing of the platform so we fixed those errros
